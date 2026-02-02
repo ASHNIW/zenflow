@@ -18,7 +18,7 @@
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/zenflow.git](https://github.com/YOUR_USERNAME/zenflow.git)
+    git clone [https://github.com/YOUR_USERNAME/zenflow.git](https://github.com/ASHNIW/zenflow.git)
     cd zenflow
     ```
 
